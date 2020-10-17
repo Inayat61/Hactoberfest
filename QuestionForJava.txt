@@ -34,3 +34,12 @@ Class TestInner{
    System.out println(s.trim());
  }
 }
+class Test1
+{
+ public static void main(String[] args){
+   int r = 3;
+   int i= 2;
+   int j=r+i;
+   System.out.println("J="+j);
+ }
+}
