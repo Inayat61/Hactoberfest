@@ -64,3 +64,27 @@ class factorial
 		 System.out.print("fact"+fact);
 	}
 }
+
+-----------
+Q1:How to print the data on console?
+Answer: Through System.out.print("Printing the data on console");
+
+Q2:What is Class in Java?
+Answer: It is a blueprint or a prototype through which objects are made.
+
+Q3:If We have a class named as Work with default constructor then how we will 
+    create the object?
+Answer: Work obj = new Work();
+
+Q4:What is Objects in Java?
+Answer: It is an instance of class which is used to describe the state and behavior.
+
+Q5: Create an Integer Variable ?
+Answer: int var;
+
+Q6: Write any String class function down here?
+Ans: String s = "Using string function"; 
+     System.out.println(s.length());
+
+Q7: How many classes we can extends in java?
+Ans:  Since Java does not support multiple inheritance so it's only 1.
