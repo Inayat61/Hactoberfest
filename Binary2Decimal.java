@@ -7,9 +7,9 @@ import static java.lang.System.in;
 class  Binary2Decimal{
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
+           System.out.println("Enter number in binary press -1 to quit");
         for (; ; ) {
             int binary = input.nextInt();
-            System.out.println("Enter number in binary press -1 to quit");
             if(binary == -1) {
                 exit(1);
             }
