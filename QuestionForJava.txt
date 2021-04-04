@@ -34,4 +34,37 @@ Class TestInner{
    System.out println(s.trim());
  }
 }
+master
 //comment
+=======
+
+
+class Test2
+
+class Test3
+{
+ public static void main(String[] args){
+   int r = 3;
+   int i= 2;
+   int j=r-i;
+
+   System.out.println("J="+j);
+
+   int k=r+i+j;
+   System.out.println(k);
+
+ }
+}
+class factorial
+{
+	public static void main(String args[])
+	{
+		 int fact=1;
+		 for(int i=4;i>0;i--)
+		 {
+		 	fact*=i;
+		 }
+		 System.out.print("fact"+fact);
+	}
+}
+ master
