@@ -34,3 +34,4 @@ Class TestInner{
    System.out println(s.trim());
  }
 }
+//comment
