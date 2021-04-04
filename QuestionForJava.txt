@@ -34,6 +34,9 @@ Class TestInner{
    System.out println(s.trim());
  }
 }
+master
+//comment 2.0
+=======
 
 
 class Test2
@@ -64,3 +67,4 @@ class factorial
 		 System.out.print("fact"+fact);
 	}
 }
+ master
